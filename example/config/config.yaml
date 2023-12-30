@@ -1,0 +1,22 @@
+general:
+  width: 608
+  height: 353
+  camera_matrix: [[330      , 0.       , 304.77865],
+                  [0.       , 330      , 172.8540 ],
+                  [0.       , 0.       , 1.       ]]
+
+solver:
+  type: "s7c6"
+
+  tau: 0.037
+
+  fmin_eps: 1.0e-5
+  fmin_max_iter: 10000
+  fmin_init_radius: 1.0e-9
+
+  find_root_lb: -1.2
+  find_root_ub:  1.2
+  find_root_eps_x: 0.001
+  find_root_eps_val: 0.001
+  find_root_max_iter: 500
+
