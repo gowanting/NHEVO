@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <sup></sup>Mobile Perception Lab, 
+    <sup></sup>Mobile Perception Lab,
     <sup></sup>ShanghaiTech
 </p>
 
@@ -22,7 +22,8 @@
 
 <p align="center">
     <a href="https://github.com/gowanting/NHEVO"><strong>Paper</strong></a> |
-    <a href="https://github.com/gowanting/NHEVO"><strong>arXiv</strong></a> |
+    <a href="https://arxiv.org/pdf/2401.09331.pdf"><strong>arXiv</strong></a> |
+    <a href="https://youtu.be/gw5iJBQkk0M"><strong>Video</strong></a> |
     <a href="#citation"><strong>BibTeX</strong></a>
 </p>
 
@@ -81,8 +82,11 @@ rosbag play your_dataset.bag &
 If you find this work useful, please consider citing:
 
 ```
-@article{
-
+@INPROCEEDINGS{xu24,
+  title = {Event-based Visual Odometry on Non-holonomic Ground Vehicles},
+  author = {Xu,~W. and Zhang,~S. and Cui,~L. and Peng,~X. and Kneip,~L.},
+  year = {2024},
+  booktitle = {In Proceedings of the International Conference on 3D Vision}
 }
 ```
 
