@@ -19,11 +19,11 @@
 <p align="center">
     International Conference on 3D Vision (3DV) 2024, Davos, CH
 </p>
-
 <p align="center">
-    <a href="https://github.com/gowanting/NHEVO"><strong>Paper</strong></a> |
+    <a href="https://ieeexplore.ieee.org/abstract/document/10550819"><strong>Paper</strong></a> |
     <a href="https://arxiv.org/pdf/2401.09331.pdf"><strong>arXiv</strong></a> |
     <a href="https://youtu.be/gw5iJBQkk0M"><strong>Video</strong></a> |
+    <a href="assets/poster.pdf"><strong>Poster</strong></a> |
     <a href="#citation"><strong>BibTeX</strong></a>
 </p>
 
